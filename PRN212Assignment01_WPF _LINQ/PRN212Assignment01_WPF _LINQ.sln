@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN212Assignment01_WPF _LINQ", "PRN212Assignment01_WPF _LINQ\PRN212Assignment01_WPF _LINQ.csproj", "{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD600751-091A-4BAE-BC7C-04940C007E56}
+	EndGlobalSection
+EndGlobal

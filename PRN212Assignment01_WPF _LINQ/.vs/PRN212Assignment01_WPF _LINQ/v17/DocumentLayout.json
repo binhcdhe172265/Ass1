@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\roominfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\roominfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\listcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\listcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|d:\\he172265_prn212\\prn212assignment01_wpf _linq\\prn212assignment01_wpf _linq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1BF1B48-B17B-48D0-82EE-F1D5234BD609}|PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ.csproj|solutionrelative:prn212assignment01_wpf _linq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\Login.xaml.cs",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Login.xaml.cs",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\Login.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:46:28.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Login.xaml",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\Login.xaml",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Login.xaml",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T03:46:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomInfo.xaml.cs",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\RoomInfo.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\RoomInfo.xaml.cs",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\RoomInfo.xaml.cs",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\RoomInfo.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:40:33.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\Register.xaml.cs",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\Register.xaml.cs",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\Register.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:40:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\MainWindow.xaml",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\MainWindow.xaml",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T03:38:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:38:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListCustomer.xaml.cs",
+              "DocumentMoniker": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\ListCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212Assignment01_WPF _LINQ\\ListCustomer.xaml.cs",
+              "ToolTip": "D:\\HE172265_PRN212\\PRN212Assignment01_WPF _LINQ\\PRN212Assignment01_WPF _LINQ\\ListCustomer.xaml.cs",
+              "RelativeToolTip": "PRN212Assignment01_WPF _LINQ\\ListCustomer.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:31:22.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

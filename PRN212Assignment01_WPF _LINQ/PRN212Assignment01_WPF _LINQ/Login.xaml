@@ -1,0 +1,30 @@
+﻿<Window x:Class="PRN212Assignment01_WPF__LINQ.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRN212Assignment01_WPF__LINQ"
+        mc:Ignorable="d"
+        Background="Aqua"
+        Title="Login" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Email:" VerticalAlignment="Top" Margin="205,99,0,0" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" />
+        <TextBox x:Name="txtEmail" Margin="10,99,350,40" Grid.Row="2" Grid.Column="1" />
+
+        <TextBlock Text="Password:" VerticalAlignment="Top" Margin="0,141,10,0" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" />
+        <PasswordBox x:Name="txtPassword" Margin="10,136,350,3" Grid.Row="2" Grid.Column="1" />
+
+        <Button Content="Login" Width="70" Height="30" Margin="0,187,427,-60" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Click="LoginButton_Click" />
+        <Button Content="Register" Width="70" Height="30" Margin="0,187,348,-60" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Click="Button_Click"  />
+    </Grid>
+</Window>
